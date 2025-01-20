@@ -141,5 +141,5 @@ sorted_teams = team_stats[['team', 'ranking_matchday4']].sort_values(by='ranking
 sorted_teams['rank'] = range(1, len(sorted_teams) + 1)
 
 # Menampilkan hanya nama tim dengan ranking yang baru (tanpa angka di kiri)
-st.write("Daftar Tim Berdasarkan Ranking Matchday 4 (Ranking 1 hingga seterusnya):")
+st.write("Daftar Tim Berdasarkan Ranking Matchday 4:")
 st.dataframe(sorted_teams[['team', 'rank']].set_index('rank'))
