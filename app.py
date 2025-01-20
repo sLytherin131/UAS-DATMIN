@@ -133,3 +133,8 @@ team_name_input = st.text_input("Masukkan nama tim:")
 if team_name_input:
     result = predict_team_category(team_name_input)
     st.write(result)
+
+# Menampilkan tabel nama tim diurutkan berdasarkan ranking_matchday4
+sorted_teams = team_stats[['team', 'ranking_matchday4']].sort_values(by='ranking_matchday4', ascending=True)
+st.write("Daftar Tim Berdasarkan Ranking Matchday 4:")
+st.dataframe(sorted_teams[['team']])
