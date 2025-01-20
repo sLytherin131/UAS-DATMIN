@@ -134,10 +134,12 @@ if team_name_input:
     result = predict_team_category(team_name_input)
     st.write(result)
 
-# Pastikan ranking_matchday4 bertipe numerik
-team_stats['ranking_matchday4'] = pd.to_numeric(team_stats['ranking_matchday4'], errors='coerce')
-
-# Menampilkan tabel nama tim diurutkan berdasarkan ranking_matchday4 (1 seterusnya)
+# Menampilkan tabel nama tim yang diurutkan berdasarkan ranking_matchday4 (dengan penggantian ranking)
 sorted_teams = team_stats[['team', 'ranking_matchday4']].sort_values(by='ranking_matchday4', ascending=True)
+
+# Ganti ranking_matchday4 menjadi ranking 1, 2, 3, dst.
+sorted_teams['rank'] = range(1, len(sorted_teams) + 1)
+
+# Menampilkan hanya nama tim dengan ranking yang baru
 st.write("Daftar Tim Berdasarkan Ranking Matchday 4 (Ranking 1 hingga seterusnya):")
-st.dataframe(sorted_teams[['team']])
+st.dataframe(sorted_teams[['team', 'rank']])
