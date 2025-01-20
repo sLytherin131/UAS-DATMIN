@@ -1,0 +1,909 @@
+id_player,player_name,nationality,field_position,age,team_id
+250016833,Harry Kane,England,Forward,31,50037
+250105927,Viktor Gyökeres,Sweden,Forward,26,50149
+250121533,Vinícius Júnior,Brazil,Forward,24,50051
+250121294,Tijjani Reijnders,Netherlands,Midfielder,26,50058
+250160436,Maghnes Akliouche,France,Midfielder,22,50023
+250028211,Antonio Rüdiger,Germany,Defender,31,50051
+250123677,Malik Tillman,USA,Midfielder,22,50062
+250055663,Thilo Kehrer,Germany,Defender,28,50023
+250064188,Hans Vanaken,Belgium,Midfielder,32,50043
+250088061,Achraf Hakimi,Morocco,Defender,26,52747
+250189506,Ryan Flamingo,Netherlands,Defender,21,50062
+250106969,Miguel Gutiérrez,Spain,Defender,23,2602798
+50327420,Virgil van Dijk,Netherlands,Defender,33,7889
+250070417,Joshua Kimmich,Germany,Midfielder,29,50037
+250096309,Jules Koundé,France,Defender,25,50080
+250129965,Marc Casado,Spain,Midfielder,21,50080
+250004363,Stefan Ristovski,North Macedonia,Defender,32,50164
+250139207,Rico Lewis,England,Defender,19,52919
+250134304,Gabriel Martinelli,Brazil,Forward,23,52280
+250127492,Kamil Piątkowski,Poland,Defender,24,50030
+250189363,Youngwoo Seol,Korea Republic,Defender,25,50069
+250052554,Josip Mišić,Croatia,Midfielder,30,50164
+250134856,Nico Schlotterbeck,Germany,Defender,24,52758
+250092668,Dávid Hancko,Slovakia,Defender,26,52749
+250158901,Filip Panák,Czechia,Defender,29,50033
+250136465,Nuno Mendes,Portugal,Defender,22,52747
+250014042,Callum McGregor,Scotland,Midfielder,31,50050
+250188474,Éderson,Brazil,Midfielder,25,52816
+250134536,Inbeom Hwang,Korea Republic,Midfielder,28,52749
+250112217,Angelo Stiller,Germany,Midfielder,23,50107
+250101557,Morten Hjulmand,Denmark,Midfielder,25,50149
+250187672,Pedro Henrique,Brazil,Defender,22,52707
+250065419,Stefan Posch,Austria,Defender,27,52969
+250025791,Benjamin André,France,Midfielder,34,75797
+250014709,Marten de Roon,Netherlands,Midfielder,33,52816
+250128120,Alphonso Davies,Canada,Midfielder,24,50037
+250163454,Piero Hincapie,Ecuador,Defender,22,50109
+250123695,Maxim De Cuyper,Belgium,Midfielder,23,50043
+250116734,Ladislav Krejčí,Czechia,Defender,25,2602798
+250113001,Ryan Gravenberch,Netherlands,Midfielder,22,7889
+250102868,Jusuf Gazibegović,Bosnia and Herzegovina,Defender,24,50111
+250122983,Pierre Kalulu,France,Defender,24,50139
+250153945,Alvaro Carreras,Spain,Defender,21,50147
+250079545,Dayot Upamecano,France,Defender,26,50037
+250064444,Mykola Matviyenko,Ukraine,Defender,28,52707
+250055660,Jonathan Tah,Germany,Defender,28,50109
+250077679,Timi Elšnik,Slovenia,Midfielder,26,50069
+250064064,Marquinhos,Brazil,Defender,30,52747
+250132401,Kenny Lala,France,Defender,33,2601306
+250121149,Emanuel Aiwu,Austria,Defender,23,50111
+250068808,Olivier Boscagli,France,Defender,26,50062
+250051754,Willi Orbán,Hungary,Defender,32,2603790
+250053044,Brandon Mechele,Belgium,Defender,31,50043
+250087118,Valeriy Bondar,Ukraine,Defender,25,52707
+250188247,Alexsandro,Brazil,Defender,25,75797
+250174126,Willian Pacho,Ecuador,Defender,23,52747
+250131901,Gabriel,Brazil,Defender,26,52280
+250130786,Martin Vitík,Czechia,Defender,21,50033
+250127439,William Saliba,France,Defender,23,52280
+250076126,Theo Hernández,France,Defender,27,50058
+250131541,Cesar Blackman,Panama,Defender,26,52797
+250000679,Kévin Théophile-Catherine,France,Defender,35,50164
+250158476,Nasser Djiga,Burkina Faso,Defender,21,50069
+250135672,Soumaula Coulibaly,France,Defender,21,2601306
+250017040,Nicolás Otamendi,Argentina,Defender,36,50147
+250176201,Joel Ordoñez,Ecuador,Defender,20,50043
+250061721,Kenan Bajrić,Slovenia,Defender,29,52797
+250121218,Jhon Lucumi,Colombia,Defender,26,52969
+250016616,Uroš Spajić,Serbia,Defender,31,50069
+250171278,David Raya,Spain,Goalkeeper,29,52280
+102420,Péter Gulácsi,Hungary,Goalkeeper,34,2603790
+250006714,Marco Bizot,Netherlands,Goalkeeper,33,2601306
+250063980,Timon Wellenreuther,Germany,Goalkeeper,28,52749
+98078,Simon Mignolet,Belgium,Goalkeeper,36,50043
+250121017,Dmytro Riznyk,Ukraine,Goalkeeper,25,52707
+250087102,Alexander Nübel,Germany,Goalkeeper,28,50107
+250105818,Peter Vindahl,Denmark,Goalkeeper,26,50033
+250012069,Jan Oblak,Slovenia,Goalkeeper,31,50124
+250124006,Franco Israel,Uruguay,Goalkeeper,24,50149
+97746,Yann Sommer,Switzerland,Goalkeeper,35,50138
+250135068,Lucas Chevalier,France,Goalkeeper,23,75797
+250123304,Kjell Scherpen,Netherlands,Goalkeeper,24,50111
+250105612,Marco Carnesecchi,Italy,Goalkeeper,24,52816
+250157134,Dominik Takáč,Slovakia,Goalkeeper,25,52797
+74954,Kasper Schmeichel,Denmark,Goalkeeper,38,50050
+250040573,Łukasz Skorupski,Poland,Goalkeeper,33,52969
+250113444,Anatoliy Trubin,Ukraine,Goalkeeper,23,50147
+250085475,Paulo Gazzaniga,Argentina,Goalkeeper,32,2602798
+250087938,Kai Havertz,Germany,Midfielder,25,52280
+250172672,Alexis Mac Allister,Argentina,Midfielder,25,7889
+250090766,Maximilian Mittelstädt,Germany,Defender,27,50107
+250112978,Dmytro Kryskiv,Ukraine,Midfielder,24,52707
+250188511,Anthony Rouault,France,Defender,23,50107
+250091013,Ibrahima Konaté,France,Defender,25,7889
+250040471,Iñigo Martínez,Spain,Defender,33,50080
+250023097,Remo Freuler,Switzerland,Midfielder,32,52969
+250067630,Fikayo Tomori,England,Defender,26,50058
+250079003,Kaan Kairinen,Finland,Midfielder,25,50033
+250130406,Johan Bakayoko,Belgium,Forward,21,50062
+250096954,Loïs Openda,Belgium,Forward,24,2603790
+250119181,Georgiy Sudakov,Ukraine,Midfielder,22,52707
+104733,Guram Kashia,Georgia,Defender,37,52797
+250112122,Francisco Trincão,Portugal,Forward,24,50149
+250118964,Enzo Millot,France,Midfielder,22,50107
+250132399,Youssouf Fofana,France,Midfielder,25,50058
+250169706,Daizen Maeda,Japan,Forward,27,50050
+250118504,Edon Zhegrova,Kosovo,Midfielder,25,75797
+250181680,Alistair Johnston,Canada,Defender,26,50050
+250098471,Marko Tolić,Croatia,Midfielder,28,52797
+250139445,Florian Wirtz,Germany,Midfielder,21,50109
+250042422,Alejandro Grimaldo,Spain,Defender,29,50109
+250005343,Luuk De Jong,Netherlands,Forward,34,50062
+250137390,Zeno Debast,Belgium,Defender,21,50149
+250064232,Davide Zappacosta,Italy,Defender,32,52816
+250169730,Vanderson,Brazil,Defender,23,50023
+250153349,Oscar Gloukh,Israel,Midfielder,20,50030
+250101727,Quinten Timber,Netherlands,Midfielder,23,52749
+250013022,Tigran Barseghyan,Armenia,Midfielder,31,52797
+250132407,Ludovic Ajorque,France,Forward,30,2601306
+250097909,Mehdi Taremi,Iran,Forward,32,50138
+250130234,William Bøving,Denmark,Midfielder,21,50111
+250125538,Dan Ndoye,Switzerland,Forward,24,52969
+250162325,Minjae Kim,Korea Republic,Defender,27,50037
+250153849,Warren Zaïre-Emery,France,Midfielder,18,52747
+250108215,David Strelec,Slovakia,Forward,23,52797
+250128377,Jude Bellingham,England,Midfielder,21,50051
+250052469,Mohamed Salah,Egypt,Forward,32,7889
+250046522,Julian Brandt,Germany,Midfielder,28,52758
+250161248,Sam Beukema,Netherlands,Defender,25,52969
+250085751,Sandro Lauper,Switzerland,Midfielder,28,50031
+250177886,Igor Paixão,Brazil,Forward,24,52749
+250085369,Manuel Akanji,Switzerland,Defender,29,52919
+250176450,Lamine Yamal,Spain,Forward,17,50080
+250196709,Atakan Karazor,Türkiye,Midfielder,28,50107
+250096698,Christian Pulišić,USA,Forward,26,50058
+250056159,Qazim Laçi,Albania,Midfielder,28,50033
+250110734,Filip Ugrinic,Switzerland,Midfielder,25,50031
+250102866,Amadou Haidara,Mali,Midfielder,26,2603790
+250169764,Matteo Dams,Belgium,Defender,20,50062
+250113211,Orkun Kökçü,Türkiye,Midfielder,23,50147
+250168990,Arnau Martínez,Spain,Defender,21,2602798
+250134138,Bradley Barcola,France,Forward,22,52747
+250130414,Arne Engels,Belgium,Midfielder,21,50050
+250103758,Erling Haaland,Norway,Forward,24,52919
+250064252,Rade Krunić,Bosnia and Herzegovina,Midfielder,31,50069
+250042780,Mike Maignan,France,Goalkeeper,29,50058
+250124460,Christos Tzolis,Greece,Forward,22,50043
+250076357,Trent Alexander-Arnold,England,Defender,26,7889
+250002096,Robert Lewandowski,Poland,Forward,36,50080
+250089228,Rafael Leão,Portugal,Forward,25,50058
+250099180,Dušan Vlahović,Serbia,Forward,24,50139
+250028715,Berat Djimsiti,Albania,Defender,31,52816
+250101284,Federico Valverde,Uruguay,Midfielder,26,50051
+250106709,Bafodé Diakité,France,Defender,23,75797
+97923,Manuel Neuer,Germany,Goalkeeper,38,50037
+250112880,Raphinha,Brazil,Forward,27,50080
+250019498,Antoine Griezmann,France,Forward,33,50124
+250099671,Guus Til,Netherlands,Midfielder,26,50062
+250041770,Serge Gnabry,Germany,Forward,29,50037
+250091290,Mahdi Camara,France,Midfielder,26,2601306
+250064446,Oleksandr Zubkov,Ukraine,Midfielder,28,52707
+250157930,Joel Monteiro,Switzerland,Forward,25,50031
+250167111,Mika Biereth,Denmark,Forward,21,50111
+250146674,Kerem Aktürkoğlu,Türkiye,Forward,26,50147
+250200228,Malick Yalcouye,Mali,Midfielder,18,50111
+250121132,Danylo Ihnatenko,Ukraine,Midfielder,27,52797
+250140940,Martin Baturina,Croatia,Midfielder,21,50164
+250163623,Andrea Cambiaso,Italy,Defender,24,50139
+250187759,Eguinaldo,Brazil,Forward,20,52707
+250061027,Fredrik Aursnes,Norway,Midfielder,28,50147
+250101534,Phil Foden,England,Midfielder,24,52919
+250099258,Ademola Lookman,Nigeria,Forward,27,52816
+250196712,Silas,DR Congo,Forward,26,50069
+250127111,Benjamin Šeško,Slovenia,Forward,21,2603790
+250171301,Karim Konaté,Ivory Coast,Forward,20,50030
+250076574,Kylian Mbappé,France,Forward,25,50051
+250174822,Savinho,Brazil,Midfielder,20,52919
+250086316,Thomas Partey,Ghana,Midfielder,31,52280
+250171055,Kenan Yıldız,Türkiye,Forward,19,50139
+250176453,Pau Cubarsí,Spain,Defender,17,50080
+250113276,Jeremie Frimpong,Netherlands,Defender,23,50109
+250163786,Joaquin Seys,Belgium,Defender,19,50043
+250058258,Benjamin Henrichs,Germany,Defender,27,2603790
+250194673,Deniz Undav,Germany,Forward,28,50107
+250051291,Janis Blaswich,Germany,Goalkeeper,33,50030
+250143693,Pedri,Spain,Midfielder,21,50080
+250128255,Emerson,Brazil,Defender,25,50058
+250106148,Nicolas Kühn,Germany,Midfielder,24,50050
+250118391,Edmond Tapsoba,Burkina Faso,Defender,25,50109
+250004721,Granit Xhaka,Switzerland,Midfielder,32,50109
+250129446,Liam Scales,Republic of Ireland,Defender,26,50050
+250107477,Jeff Chabot,Germany,Defender,26,50107
+250112690,Denzel Dumfries,Netherlands,Defender,28,50138
+250017824,Emre Can,Germany,Defender,30,52758
+250112803,Ferland Mendy,France,Defender,29,50051
+250081207,Donny van de Beek,Netherlands,Midfielder,27,2602798
+250104066,Dominik Szoboszlai,Hungary,Midfielder,24,7889
+250112969,Artem Bondarenko,Ukraine,Midfielder,24,52707
+250113993,Matěj Ryneš,Czechia,Defender,23,50033
+250121965,Éder Militão,Brazil,Defender,26,50051
+250080553,Serhou Guirassy,Rep of Guinea,Forward,28,52758
+250169705,Reo Hatate,Japan,Defender,26,50050
+250172668,Julián Alvarez,Argentina,Forward,24,50124
+250032786,David López,Spain,Defender,35,2602798
+250023009,Leandro Trossard,Belgium,Midfielder,29,52280
+250027780,Massadio Haïdara,Mali,Defender,31,2601306
+250200308,Auston Trusty,USA,Defender,26,50050
+250112186,Silvère Ganvoula,Congo,Forward,28,50031
+250127284,Joško Gvardiol,Croatia,Defender,22,52919
+250164991,João Neves,Portugal,Midfielder,20,52747
+250196588,Hugo Magnetti,France,Midfielder,26,2601306
+250198240,Lamine Camara,Senegal,Midfielder,20,50023
+250104075,Lutsharel Geertruida,Netherlands,Defender,24,2603790
+250064274,Breel Embolo,Switzerland,Forward,27,50023
+250041626,Sead Kolašinac,Bosnia and Herzegovina,Defender,31,52816
+250081921,Benjamin Pavard,France,Defender,28,50138
+250019573,Gernot Trauner,Austria,Defender,32,52749
+103335,Axel Witsel,Belgium,Midfielder,35,50124
+250116951,Yann Bisseck,Germany,Defender,23,50138
+250145803,Matheus Nunes,Portugal,Midfielder,26,52919
+250132323,Wilfried Singo,Ivory Coast,Defender,23,50023
+250043066,Kevin Wimmer,Austria,Defender,31,52797
+250063505,José María Giménez,Uruguay,Defender,29,50124
+250081553,Teun Koopmeiners,Netherlands,Midfielder,26,50139
+250083732,Declan Rice,England,Midfielder,25,52280
+250148830,Raúl Torrente,Spain,Defender,23,50164
+250174149,Isak Hien,Sweden,Defender,25,52816
+250126449,Amar Dedić,Bosnia and Herzegovina,Defender,22,50030
+250117410,Tomás Araújo,Portugal,Defender,22,50147
+250196586,Brendan Chardonnet,France,Defender,29,2601306
+250124068,Castello Lukeba,France,Defender,21,2603790
+250160568,Angelo Preciado,Ecuador,Defender,26,50033
+250081721,Iñaki Peña,Spain,Goalkeeper,25,50080
+250069832,Gregor Kobel,Switzerland,Goalkeeper,26,52758
+1907188,Lukas Hradecky,Finland,Goalkeeper,34,50109
+250101144,Walter Benítez,Argentina,Goalkeeper,31,50062
+250066131,Ivan Nevistić,Croatia,Goalkeeper,26,50164
+250078922,Gianluigi Donnarumma,Italy,Goalkeeper,25,52747
+250102035,Jonathan David,Canada,Forward,24,75797
+250081223,Takumi Minamino,Japan,Midfielder,29,50023
+250115192,Gabriel Gudmundsson,Sweden,Defender,25,75797
+250119677,Ramy Bensebaini,Algeria,Defender,29,52758
+250135416,Alejandro Balde,Spain,Defender,21,50080
+250103243,Dimitri Lavalée,Belgium,Defender,27,50111
+250112974,Yukhym Konoplia,Ukraine,Defender,25,52707
+250079677,Denis Zakaria,Switzerland,Midfielder,27,50023
+250078012,Vangelis Pavlidis,Greece,Forward,25,50147
+250135339,Petar Sučić,Croatia,Midfielder,21,50164
+250076631,Kostas Tsimikas,Greece,Defender,28,7889
+250138382,Jamie Leweling,Germany,Forward,23,50107
+250200313,Jordan Lotomba,Switzerland,Defender,26,52749
+250171283,Ardon Jashari,Switzerland,Midfielder,22,50043
+250129341,Tochi Chukwuani,Denmark,Midfielder,21,50111
+250142271,Max Johnston,Scotland,Defender,20,50111
+250173126,Ferran Jutglà,Spain,Forward,25,50043
+250122213,Mauro Júnior,Brazil,Defender,25,50062
+250064027,Kyriakos Savvidis,Greece,Midfielder,29,52797
+250066886,Ousmane Dembélé,France,Forward,27,52747
+250024456,Álvaro Morata,Spain,Forward,32,50058
+1905153,Ángel Di María,Argentina,Forward,36,50147
+250086037,Rodrigo De Paul,Argentina,Midfielder,30,50124
+250096849,Cody Gakpo,Netherlands,Forward,25,7889
+250065301,Aleix García,Spain,Midfielder,27,50109
+250078593,Otar Kiteishvili,Georgia,Midfielder,28,50111
+250139010,Samson Baidoo,Austria,Defender,20,50030
+250092517,Julian Ryerson,Norway,Defender,26,52758
+1909917,Koke,Spain,Midfielder,32,50124
+250129746,Giovanni Fabbian,Italy,Midfielder,21,52969
+250177497,Geovany Quenda,Portugal,Forward,17,50149
+250105717,Veljko Birmančević,Serbia,Midfielder,26,50033
+250106939,Bukayo Saka,England,Forward,23,52280
+250128451,Xavi Simons,Netherlands,Midfielder,21,2603790
+250086263,Peter Olayinka,Nigeria,Forward,28,50069
+250171184,Michael Olise,France,Midfielder,22,50037
+250172673,Nahuel Molina,Argentina,Defender,26,50124
+250189052,Hugo Bueno,Spain,Defender,22,52749
+250145845,Geny Catamo,Mozambique,Midfielder,23,50149
+250101444,Vitinha,Portugal,Midfielder,24,52747
+250024370,Piotr Zieliński,Poland,Midfielder,30,50138
+250159544,Antoni Milambo,Netherlands,Midfielder,19,52749
+250187238,Cherif Ndiaye,Senegal,Forward,28,50069
+250029535,Pascal Gross,Germany,Midfielder,33,52758
+250024349,Marcel Sabitzer,Austria,Midfielder,30,52758
+250089225,Florentino,Portugal,Midfielder,25,50147
+250153402,Jamie Gittens,England,Midfielder,20,52758
+250156459,Kyogo Furuhashi,Japan,Midfielder,29,50050
+250068733,Aïssa Mandi,Algeria,Defender,33,75797
+50327428,Stefan De Vrij,Netherlands,Defender,32,50138
+250127538,Josha Vagnoman,Germany,Defender,23,50107
+250171067,Jaouen Hadjam,Algeria,Defender,21,50031
+250116904,Weston McKennie,USA,Midfielder,26,50139
+250161140,Nicolás Capaldo,Argentina,Midfielder,26,50030
+250056566,Ruben Loftus-Cheek,England,Midfielder,28,50058
+250101201,Michele Di Gregorio,Italy,Goalkeeper,27,50139
+250091828,Raoul Bellanova,Italy,Defender,24,52816
+250174063,Victor  Olatunji,Nigeria,Forward,25,50033
+250124169,Lewin Blum,Switzerland,Defender,23,50031
+250188223,Carlos Augusto,Brazil,Defender,25,50138
+250187221,Thomas Beelen,Netherlands,Defender,23,52749
+250144858,Yangel Herrera,Venezuela,Midfielder,26,2602798
+250124430,Jamal Musiala,Germany,Midfielder,21,50037
+250172907,Federico Gatti,Italy,Defender,26,50139
+250156457,Hidemasa Morita,Japan,Midfielder,29,50149
+250132730,Ebrima Colley,Gambia,Forward,24,50031
+250183519,Mateo Retegui,Italy,Forward,25,52816
+250113103,Conor Gallagher,England,Midfielder,24,50124
+250097638,Andreas Skov Olsen,Denmark,Forward,24,50043
+250059115,Bernardo Silva,Portugal,Midfielder,30,52919
+250058227,Aleksandr Golovin,Russia,Midfielder,28,50023
+250147342,Abdallah Sima,Senegal,Forward,23,2601306
+250040521,Lucas Vázquez,Spain,Midfielder,33,50051
+250193541,Takuya Ogiwara,Japan,Defender,24,50164
+250156002,Ben White,England,Defender,27,52280
+250079279,Nikola Moro,Croatia,Midfielder,26,52969
+250132831,Reinildo,Mozambique,Defender,30,50124
+250022829,Hakan Çalhanoğlu,Türkiye,Midfielder,30,50138
+250117405,Francisco Conceição,Portugal,Forward,21,50139
+250086789,Edimilson Fernandes,Switzerland,Midfielder,28,2601306
+250112400,Riccardo Orsolini,Italy,Midfielder,27,52969
+250135101,Raphael Onyedika,Nigeria,Midfielder,23,50043
+250106967,Bryan Gil,Spain,Forward,23,2602798
+250112224,Felix Nmecha,Germany,Midfielder,24,52758
+250005335,İlkay Gündoğan,Germany,Midfielder,34,52919
+250163400,Antonio Nusa,Norway,Midfielder,19,2603790
+250141861,Victor Boniface,Nigeria,Forward,23,50109
+250189047,Zachary Athekame,Switzerland,Defender,19,50031
+250164835,Bobby Clark,England,Midfielder,19,50030
+250177722,Andrija Maksimović,Serbia,Forward,17,50069
+250169685,Ousmane Diomande,Ivory Coast,Defender,20,50149
+250132811,Luis Díaz,Colombia,Forward,27,7889
+250145629,Alexander Bah,Denmark,Defender,26,50147
+250105244,Aurélien Tchouaméni,France,Midfielder,24,50051
+250121584,Kang-in Lee,Korea Republic,Midfielder,23,52747
+250113373,Bojan Miovski,North Macedonia,Forward,25,2602798
+250066739,Nicolò Barella,Italy,Midfielder,27,50138
+250161141,Mamady Diambou,Mali,Midfielder,21,50030
+250191448,Ayyoub Bouaddi,France,Midfielder,17,75797
+250086315,Ángel Correa,Argentina,Forward,29,50124
+250167977,Eliesse Ben Seghir,Morocco,Midfielder,19,50023
+250112842,Greg Taylor,Scotland,Defender,27,50050
+250187184,Dorgeles Nene,Mali,Forward,21,50030
+250113237,Nicolò Fagioli,Italy,Midfielder,23,50139
+250143328,Pedro Gonçalves,Portugal,Midfielder,26,50149
+250101728,Jurriën Timber,Netherlands,Defender,23,52280
+250134320,Ismael Saibari,Morocco,Forward,23,50062
+250058722,Lukáš Haraslín,Slovakia,Midfielder,28,50033
+250117705,Charles De Ketelaere,Belgium,Forward,23,52816
+250129175,Seedy Jatta,Norway,Forward,21,50111
+250091187,Sandro Kulenović,Croatia,Forward,24,50164
+250079541,Maxime Bernauer,France,Defender,26,50164
+250063394,Bruno Petković,Croatia,Forward,30,50164
+250136464,Gonçalo Inácio,Portugal,Defender,23,50149
+250127540,Thijs Dallinga,Netherlands,Forward,24,52969
+250096716,Ronaël Pierre-Gabriel,France,Defender,26,50164
+250103562,Juan Miranda,Spain,Defender,24,52969
+250156235,Albion Rrahmani,Kosovo,Forward,24,50033
+250101097,Caio Henrique,Brazil,Defender,27,50023
+250106722,Khephren Thuram,France,Midfielder,23,50139
+74699,Luka Modrić,Croatia,Midfielder,39,50051
+250049573,Cristhian Stuani,Uruguay,Forward,38,2602798
+250088150,Davide Frattesi,Italy,Midfielder,25,50138
+250106649,Gabriel Jesus,Brazil,Forward,27,52280
+250121330,Matheus Reis,Brazil,Defender,29,50149
+250104939,Kastriot Imeri,Switzerland,Midfielder,24,50031
+250088104,Arnaut Danjuma,Netherlands,Midfielder,27,2602798
+250128468,António Silva,Portugal,Defender,21,50147
+250066747,Manuel Locatelli,Italy,Midfielder,26,50139
+250089289,Christoph Baumgartner,Austria,Midfielder,25,2603790
+250187143,Adam Daghim,Denmark,Forward,19,50030
+250128398,Lucas Gourna-Douath,France,Midfielder,21,50030
+250065413,Konrad Laimer,Austria,Midfielder,27,50037
+250091165,Noa Lang,Netherlands,Forward,25,50062
+250091172,Iván Martín,Spain,Midfielder,25,2602798
+250110894,Pierre Lees-Melou,France,Midfielder,31,2601306
+250172787,Jerdy Schouten,Netherlands,Midfielder,27,50062
+250181712,Mohammed Salisu,Ghana,Defender,25,50023
+250110361,David Raum,Germany,Defender,26,2603790
+250024448,Dani Carvajal,Spain,Defender,32,50051
+250026229,Jaroslav Zelený,Czechia,Defender,32,50033
+250169265,Banhie Zoukrou,France,Defender,21,50031
+250041781,Niklas Süle,Germany,Defender,29,52758
+250122187,Mohamed Ali Camara,Rep of Guinea,Defender,27,50031
+250052744,David von Ballmoos,Switzerland,Goalkeeper,29,50031
+250138250,Marvin Keller,Switzerland,Goalkeeper,22,50031
+250087877,Radosław Majecki,Poland,Goalkeeper,24,50023
+250099867,Alisson Becker,Brazil,Goalkeeper,32,7889
+250077750,Caoimhin Kelleher,Republic of Ireland,Goalkeeper,25,7889
+250028705,Stefan Ortega,Germany,Goalkeeper,32,52919
+250090955,Philipp Köhn,Switzerland,Goalkeeper,26,50023
+250089824,Andriy Lunin,Ukraine,Goalkeeper,25,50051
+250079112,Marko Ilić,Serbia,Goalkeeper,26,50069
+250011668,Thibaut Courtois,Belgium,Goalkeeper,32,50051
+250073809,Ederson,Brazil,Goalkeeper,31,52919
+250080461,Omri Glazer,Israel,Goalkeeper,28,50069
+250091198,Matteo Gabbia,Italy,Defender,25,50058
+250113392,Riccardo Calafiori,Italy,Defender,22,52280
+250101723,Mitchel Bakker,Netherlands,Defender,24,75797
+250155799,Niklas Geyrhofer,Austria,Defender,24,50111
+250146610,Osame Sahraoui,Norway,Midfielder,23,75797
+250091199,Alessandro Bastoni,Italy,Defender,25,50138
+98023,Henrikh Mkhitaryan,Armenia,Midfielder,35,50138
+250132829,Rodrygo,Brazil,Forward,23,50051
+250181460,Ayase Ueda,Japan,Forward,26,52749
+250079383,Ermedin Demirović,Bosnia and Herzegovina,Midfielder,26,50107
+250200231,Maximiliano Araújo,Uruguay,Midfielder,24,50149
+250115436,Fabián Ruiz,Spain,Midfielder,28,52747
+250089719,Aleksa Terzić,Serbia,Defender,25,50030
+250042631,Mario Pašalić,Croatia,Midfielder,29,52816
+250196543,Santiago Castro,Argentina,Forward,20,52969
+250102308,Daniel Bragança,Portugal,Midfielder,25,50149
+250013058,Charalampos Lykogiannis,Greece,Defender,31,52969
+250144965,Darwin Núñez,Uruguay,Forward,25,7889
+250082469,Dálcio Gomes,Portugal,Midfielder,28,50069
+250132886,Cheikh Niasse,France,Midfielder,24,50031
+250066156,Raphaël Guerreiro,Portugal,Defender,30,50037
+250163777,Aleksandar Pavlovic,Germany,Midfielder,20,50037
+250067295,João Palhinha,Portugal,Midfielder,29,50037
+250187837,Ibrahim Osman,Ghana,Forward,19,52749
+250192048,Chris Führich,Germany,Midfielder,26,50107
+103806,Matteo Darmian,Italy,Defender,34,50138
+250074010,Romain Del Castillo,France,Forward,28,2601306
+250064482,Nuno Santos,Portugal,Forward,29,50149
+250064233,John Stones,England,Defender,30,52919
+250090809,Tomáš Wiesner,Czechia,Defender,27,50033
+250132810,Odilon Kossounou,Ivory Coast,Defender,23,52816
+250005231,Arijan Ademi,North Macedonia,Midfielder,33,50164
+250094540,Cameron Carter-Vickers,USA,Defender,26,50050
+250164785,Alex Valle,Spain,Defender,20,50050
+250194564,Juan Cabal,Colombia,Defender,23,50139
+250029318,Thomas Meunier,Belgium,Defender,33,75797
+250101238,Waldemar Anton,Germany,Defender,28,52758
+250138928,Exequiel Palacios,Argentina,Midfielder,26,50109
+250042632,Marko Pjaca,Croatia,Forward,29,50164
+250081555,Donyell Malen,Netherlands,Forward,25,52758
+250115134,Hugo Vetlesen,Norway,Midfielder,24,50043
+250173502,Samuel Lino,Brazil,Midfielder,24,50124
+250118281,Lautaro Martínez,Argentina,Forward,27,50138
+250113947,Łukasz Łakomy,Poland,Midfielder,23,50031
+250019616,Tomi Horvat,Slovenia,Midfielder,25,50111
+250144297,El Bilal Touré,Mali,Forward,23,50107
+250166754,Kacper Urbański,Poland,Midfielder,20,52969
+102153,Vladimír Weiss,Slovakia,Midfielder,34,52797
+250166930,Arthur Vermeeren,Belgium,Midfielder,19,2603790
+250138653,Nicolò Savona,Italy,Defender,21,50139
+250198501,Anrie Chase,Japan,Defender,20,50107
+250061361,Alexander Sørloth,Norway,Forward,28,50124
+250186923,Javier Galán,Spain,Defender,29,50124
+250058220,Rúben Dias,Portugal,Defender,27,52919
+250127347,Karim Adeyemi,Germany,Forward,22,52758
+250128409,Alan Virginius,France,Forward,21,50031
+250124222,Maximilian Beier,Germany,Forward,22,52758
+250193519,Kevin,Brazil,Midfielder,21,52707
+250114167,Nicolas Seiwald,Austria,Midfielder,23,2603790
+250128270,Eduardo Camavinga,France,Midfielder,21,50051
+250154416,Stefan Bajcetic,Spain,Midfielder,20,50030
+250080570,Marco Asensio,Spain,Forward,28,52747
+250102901,Mama Baldé,Guinea-Bissau,Forward,29,2601306
+1903428,Marko Arnautović,Austria,Forward,35,50138
+250124849,Lazar Samardzic,Serbia,Midfielder,22,52816
+250200298,Kamory Doumbia,Mali,Midfielder,21,2601306
+250055957,Robert Andrich,Germany,Midfielder,30,50109
+250079670,Marcos Llorente,Spain,Midfielder,29,50124
+250198114,Ngal'Ayel Mukau,Belgium,Midfielder,20,75797
+250019346,Loris Benito,Switzerland,Defender,32,50031
+250115487,Danylo Sikan,Ukraine,Forward,23,52707
+250197796,Juanpe,Spain,Defender,33,2602798
+1906768,Oriol Romeu,Spain,Midfielder,33,2602798
+250007075,Mattia Perin,Italy,Goalkeeper,31,50139
+250116067,Mads Bidstrup,Denmark,Midfielder,23,50030
+250128385,Samuel Iling-Junior,England,Forward,21,52969
+250163447,Amine Adli,Morocco,Forward,24,50109
+250105167,Adam Idah,Republic of Ireland,Forward,23,50050
+250166916,Matias Fernandez-Pardo,Belgium,Forward,19,75797
+250058270,Viktor Tsygankov,Ukraine,Midfielder,26,2602798
+250132309,Sharani Zuberu,Ghana,Forward,24,52797
+250039931,Danilo,Brazil,Defender,33,50139
+250080572,Mikel Merino,Spain,Midfielder,28,52280
+250188246,Tiago Santos,Portugal,Defender,22,75797
+250052957,Francesco Acerbi,Italy,Defender,36,50138
+250168465,Lovro Zvonarek,Croatia,Midfielder,19,50111
+250113142,Jérémy Doku,Belgium,Midfielder,22,52919
+50327423,Frenkie de Jong,Netherlands,Midfielder,27,50080
+250063984,Leroy Sané,Germany,Midfielder,28,50037
+250183092,Nino Marcelli,Slovakia,Forward,19,52797
+250057117,Jonas Hofmann,Germany,Midfielder,32,50109
+250068805,Marcus Thuram,France,Forward,27,50138
+250010223,Rémy Cabella,France,Midfielder,34,75797
+250127239,Matteo Ruggeri,Italy,Defender,22,52816
+250014636,Kevin Kampl,Slovenia,Midfielder,34,2603790
+250153851,El Chadaille Bitshiabu,France,Defender,19,2603790
+250132195,Richard Ledezma,USA,Midfielder,24,50062
+250023551,Mateo Kovačić,Croatia,Midfielder,30,52919
+250058218,Renato Sanches,Portugal,Midfielder,27,50147
+250174830,Soungoutou Magassa,France,Midfielder,21,50023
+250117511,Yunus Musah,USA,Midfielder,21,50058
+250117406,Paulo Bernardo,Portugal,Midfielder,22,50050
+250146926,Randal Kolo Muani,France,Forward,25,52747
+250153634,Giuliano Simeone,Argentina,Forward,21,50124
+250071671,Marko Rog,Croatia,Midfielder,29,50164
+250067629,Tammy Abraham,England,Forward,27,50058
+250154302,Hendry Blank,Germany,Defender,20,50030
+250162177,Désiré Doué,France,Forward,19,52747
+250162865,Zeki Amdouni,Switzerland,Forward,23,50147
+250042329,Jack Grealish,England,Midfielder,29,52919
+250055110,Patrik Schick,Czechia,Forward,28,50109
+250197801,Gerard Martín,Spain,Defender,22,50080
+250088320,Ferran Torres,Spain,Forward,24,50080
+250132465,Darian Males,Switzerland,Midfielder,23,50031
+250133390,Bruno Duarte,Brazil,Forward,28,50069
+250104089,Angel Gomes,England,Midfielder,24,75797
+250171045,Issa Kaboré,Burkina Faso,Defender,23,50147
+250099459,Martin Terrier,France,Forward,27,50109
+250066157,Andy Robertson,Scotland,Defender,30,7889
+250123978,Malick Thiaw,Germany,Defender,23,50058
+250098468,Luka Ivanušec,Croatia,Forward,25,52749
+250080471,Diogo Jota,Portugal,Forward,27,7889
+250067334,Rick Karsdorp,Netherlands,Defender,29,50062
+250132322,Bremer,Brazil,Defender,27,50139
+250106935,Curtis Jones,England,Midfielder,23,7889
+250054949,Kingsley Coman,France,Forward,28,50037
+250164780,Fermín López,Spain,Forward,21,50080
+250092194,Dario Špikić,Croatia,Forward,25,50164
+250101313,Rodrigo Riquelme,Spain,Midfielder,24,50124
+250134728,Alejandro Francés,Spain,Defender,22,2602798
+250089209,Jan-Niklas Beste,Germany,Defender,25,50147
+250115948,Strahinja Pavlović,Serbia,Defender,23,50058
+250198119,Anis Hadj Moussa,Algeria,Forward,22,52749
+250188225,George Ilenikhena,Nigeria,Forward,18,50023
+1906511,Milan Rodić,Serbia,Defender,33,50069
+250139036,Pablo Barrios,Spain,Midfielder,21,50124
+250129343,Maurits Kjærgaard,Denmark,Midfielder,21,50030
+250082664,Rodri,Spain,Midfielder,28,52919
+250054969,Jon Gorenc Stanković,Slovenia,Midfielder,28,50111
+250052849,Mirko Ivanić,Montenegro,Midfielder,31,50069
+250107509,Elias Cobbaut,Belgium,Defender,26,50033
+250042779,Clément Lenglet,France,Defender,29,50124
+250102417,Siemen Voet,Belgium,Defender,24,52797
+250186123,Julien Le Cardinal,France,Defender,27,2601306
+250073778,Samy Mmaee,Morocco,Defender,28,50164
+250177879,Santiago Giménez,Mexico,Forward,23,52749
+250112513,Robin Le Normand,Spain,Defender,27,50124
+108908,Daley Blind,Netherlands,Defender,34,2602798
+250182606,Jahmai Simpson-Pusey,England,Defender,19,52919
+250055149,Asger Sørensen,Denmark,Defender,28,50033
+250174737,Alexander Meyer,Germany,Goalkeeper,33,52758
+250029377,Danijel Zagorac,Croatia,Goalkeeper,37,50164
+250090101,Matvei Safonov,Russia,Goalkeeper,25,52747
+250081931,Joël Drommel,Netherlands,Goalkeeper,27,50062
+250117491,Matěj Kovář,Czechia,Goalkeeper,24,50109
+250007631,Marc-André ter Stegen,Germany,Goalkeeper,32,50080
+250193518,Marlon Gomes,Brazil,Midfielder,20,52707
+250089688,Vanja Drkušić,Slovenia,Defender,25,50069
+250056982,Guélor Kanga,Gabon,Midfielder,34,50069
+250141610,Meschack Elia,DR Congo,Forward,27,50031
+250121552,Romain Faivre,France,Midfielder,26,2601306
+250064273,Cédric Itten,Switzerland,Forward,27,50031
+1905643,Juraj Kucka,Slovakia,Midfielder,37,52797
+250063617,Jordan Amavi,France,Defender,30,2601306
+250107324,Nicolò Zaniolo,Italy,Forward,25,52816
+250003318,Thomas Müller,Germany,Forward,35,50037
+250061589,Casper Nielsen,Denmark,Midfielder,30,50043
+250137525,Nicolás González,Argentina,Forward,26,50139
+250172340,Christian Mawissa,France,Defender,19,50023
+250193531,Benjamin Rollheiser,Argentina,Forward,24,50147
+250199902,Selvi Clua,Spain,Midfielder,19,2602798
+250097337,Luka Ilić,Serbia,Midfielder,25,50069
+250101472,Timothy Weah,USA,Forward,24,50139
+250178782,Leandro Morgalla,Germany,Defender,20,50030
+250144288,Jakub Pešek,Czechia,Midfielder,31,50033
+250091175,Fran García,Spain,Defender,25,50051
+1902685,Taras Stepanenko,Ukraine,Midfielder,35,52707
+250077453,Nathan Tella,Nigeria,Forward,25,50109
+250174849,Ramiz Zerrouki,Algeria,Midfielder,26,52749
+250027008,Nathan Aké,Netherlands,Defender,29,52919
+250121329,Nordi Mukiele,France,Defender,27,50109
+250142158,Ermal Krasniqi,Kosovo,Midfielder,26,50033
+250063957,Pascal Stenzel,Germany,Defender,28,50107
+250123910,Erencan Yardımcı,Türkiye,Forward,22,50111
+250174851,Gijs Smal,Netherlands,Defender,27,52749
+250187671,Newertton,Brazil,Midfielder,19,52707
+250112117,Tommaso Pobega,Italy,Midfielder,25,52969
+250193506,Amady Camara,Mali,Forward,19,50111
+250058044,Davide Calabria,Italy,Defender,27,50058
+250153701,Chemsdine Talbi,Belgium,Midfielder,19,50043
+250056685,Bart Nieuwkoop,Netherlands,Defender,28,52749
+250194573,Endrick,Brazil,Forward,18,50051
+250117806,Fabian Rieder,Switzerland,Midfielder,22,50107
+250015966,Juan Cuadrado,Colombia,Midfielder,36,52816
+250177423,Moussa Yeo,Mali,Midfielder,20,50030
+250118797,Folarin Balogun,USA,Forward,23,50023
+250055899,Alexander Schlager,Austria,Goalkeeper,28,50030
+250105686,Michał Skóraś,Poland,Forward,24,50043
+250163731,Yan Couto,Brazil,Defender,22,52758
+250197958,Mohamed Bayo,Rep of Guinea,Forward,26,75797
+250090719,Gustaf Nilsson,Sweden,Forward,27,50043
+250117415,Eduardo Quaresma,Portugal,Defender,22,50149
+250138985,Kyriani Sabbe,Belgium,Defender,19,50043
+250105890,Joey Veerman,Netherlands,Midfielder,25,50062
+250022869,Yussuf Poulsen,Denmark,Forward,30,2603790
+250020850,Jonas Martin,France,Midfielder,34,2601306
+250014114,Ricardo Esgaio,Portugal,Defender,31,50149
+250197264,Couhaib Driouech,Netherlands,Forward,22,50062
+250135615,James McAtee,England,Midfielder,22,52919
+250008901,Kevin De Bruyne,Belgium,Midfielder,33,52919
+250196663,Chris-Kévin Nadje,Ivory Coast,Midfielder,23,52749
+250187067,Felício Milson,Angola,Midfielder,25,50069
+250101696,Noah Okafor,Switzerland,Forward,24,50058
+250176491,Vinicius Tobias,Brazil,Defender,20,52707
+250129735,Luka Stojković,Croatia,Midfielder,21,50164
+250056189,Federico Dimarco,Italy,Defender,26,50138
+250081720,Dani Olmo,Spain,Forward,26,50080
+250089276,Jens Odgaard,Denmark,Forward,25,52969
+250128222,Lassina Traoré,Burkina Faso,Forward,23,52707
+250136445,Javi Serrano,Spain,Midfielder,21,50124
+250180309,John Mellberg,Sweden,Defender,18,50030
+250194557,Alaa Ghram,Tunisia,Defender,23,52707
+250088039,Brahim Díaz,Morocco,Midfielder,25,50051
+250105681,Jakub Kiwior,Poland,Defender,24,52280
+250165236,Ousmane Toure,France,Defender,19,75797
+1902445,Sven Ulreich,Germany,Goalkeeper,36,50037
+250121972,Douglas Luiz,Brazil,Midfielder,26,50139
+250181428,Hyunjun,Korea Republic,Midfielder,22,50050
+250041771,Leon Goretzka,Germany,Midfielder,29,50037
+250130771,Kryštof Daněk,Czechia,Midfielder,21,50033
+250172227,Julien Duranville,Belgium,Midfielder,18,52758
+250122746,Samuel Chukwueze,Nigeria,Forward,25,50058
+250006998,Cristian Portu,Spain,Midfielder,32,2602798
+250185976,Yáser Asprilla,Colombia,Midfielder,20,2602798
+250143669,Kristjan Asllani,Albania,Midfielder,22,50138
+250161881,Arda Güler,Türkiye,Midfielder,19,50051
+250024795,Raheem Sterling,England,Midfielder,29,52280
+250177333,Lorenzo Torriani,Italy,Goalkeeper,19,50058
+250123428,Mathias Pereira Lage,France,Forward,27,2601306
+107044,Róbert Mak,Slovakia,Midfielder,33,52797
+250087967,Jeremiah St. Juste,Netherlands,Defender,28,50149
+250117471,Ansu Fati,Spain,Forward,22,50080
+250067749,Jorginho,Italy,Midfielder,32,52280
+250164781,Sergi Dominguez,Spain,Defender,19,50080
+250196664,Julián Carranza,Argentina,Forward,24,52749
+250196665,Jhon Solís,Colombia,Midfielder,20,2602798
+250091841,Eljif Elmas,North Macedonia,Midfielder,25,2603790
+250041564,Július Szöke,Slovakia,Midfielder,29,52797
+250193534,Pau Victor,Spain,Forward,22,50080
+250055109,Lukáš Sadílek,Czechia,Midfielder,28,50033
+250121536,Krépin Diatta,Senegal,Midfielder,25,50023
+250198274,Idjessi Metsoko,France,Forward,22,52797
+250134190,Arthur Cabral,Brazil,Forward,26,50147
+250099399,Michel Aebischer,Switzerland,Midfielder,27,52969
+1909868,James Forrest,Scotland,Midfielder,33,50050
+250139255,Gavi,Spain,Midfielder,20,50080
+250086709,Dani Ceballos,Spain,Midfielder,28,50051
+250176187,Rhodri Smith,Switzerland,Defender,18,50031
+250138626,Nicolò Casale,Italy,Defender,26,52969
+250175393,Ibrahim Salah,Belgium,Forward,23,2601306
+250171667,Héctor Fort,Spain,Defender,18,50080
+250077644,Abdu Conté,Portugal,Defender,26,50031
+250058215,Joe Gomez,England,Defender,27,7889
+250144964,Pedrinho,Brazil,Midfielder,26,52707
+250164004,Ognjen Mimović,Serbia,Defender,20,50069
+250029862,Aleksandar Katai,Serbia,Midfielder,33,50069
+250166680,Vasilije Adžić,Montenegro,Midfielder,18,50139
+250050416,Eric Dier,England,Defender,30,50037
+250187620,Ricardo Pepi,USA,Forward,21,50062
+250055216,Nemanja Radonjić,Serbia,Midfielder,28,50069
+250163186,Lukas Kačavenda,Croatia,Midfielder,21,50164
+250110159,Arbër Hoxha,Albania,Forward,26,50164
+250138982,Romeo Vermant,Belgium,Forward,20,50043
+250181082,Myles Lewis-Skelly,England,Midfielder,18,52280
+250127024,Fredrik Oppegård,Norway,Defender,22,50062
+250198120,Jeyland Mitchell,Costa Rica,Defender,20,52749
+250161142,Daouda Guindo,Mali,Defender,22,50030
+250096737,Anthony Ralston,Scotland,Defender,25,50050
+250118912,Eliot Matazo,Belgium,Midfielder,22,50023
+250174602,Luis Palma,Honduras,Midfielder,24,50050
+250187899,Conrad Harder,Denmark,Forward,19,50149
+250135607,Conor Bradley,Northern Ireland,Defender,21,7889
+250182794,Francesco Camarda,Italy,Forward,16,50058
+250187320,Bjorn Meijer,Netherlands,Defender,21,50043
+250200307,Luke McCowan,Scotland,Midfielder,26,50050
+250139101,Artur Gajdoš,Slovakia,Midfielder,20,52797
+250159294,Cole Campbell,Iceland,Midfielder,18,52758
+250170137,Assan Ouedraogo,Germany,Midfielder,18,2603790
+250169763,Isaac Babadi,Netherlands,Midfielder,19,50062
+250161761,Jeanuël Belocian,France,Defender,19,50109
+250199913,Min-su Kim,Korea Republic,Forward,18,2602798
+250138623,Indrit Tuci,Albania,Forward,24,50033
+250010259,Kyle Walker,England,Defender,34,52919
+250198122,Jastin García,Spain,Forward,20,2602798
+250004986,Lukáš Pauschek,Slovakia,Defender,31,52797
+250107089,Matúš Vojtko,Slovakia,Defender,24,52797
+250103561,Eric García,Spain,Defender,23,50080
+250042521,André Silva,Portugal,Forward,29,2603790
+250177597,Senny Mayulu,France,Midfielder,18,52747
+250183510,Kassoum Ouattara,France,Defender,20,50023
+250180810,Jarzinho Malanga,Germany,Forward,18,50107
+250165221,Nico O’Reilly,England,Midfielder,19,52919
+250054393,Gregory Wüthrich,Switzerland,Defender,29,50111
+1906553,Stefan Hierländer,Austria,Midfielder,33,50111
+250170117,Ethan Nwaneri,England,Midfielder,17,52280
+250137395,Samuel Mbangula,Belgium,Forward,20,50139
+250116699,Lewis Ferguson,Scotland,Midfielder,25,52969
+250056861,Oleksandr Zinchenko,Ukraine,Defender,27,52280
+250186116,Yegor Prutsev,Serbia,Midfielder,21,50069
+250197800,Facundo Gonzalez,Italy,Defender,21,52749
+250168996,Pablo Torre,Spain,Midfielder,21,50080
+250126267,Markus Solbakken,Norway,Midfielder,24,50033
+250172594,Petar Ratkov,Serbia,Forward,21,50030
+250133903,Ben Godfrey,England,Defender,26,52816
+250089626,Leandro Barreiro,Luxembourg,Midfielder,24,50147
+250123020,Marco Brescianini,Italy,Midfielder,24,52816
+250190378,Andres Cuenca,Spain,Defender,17,50080
+250154458,Martin Suchomel,Czechia,Defender,22,50033
+250140936,Mathys Tel,France,Forward,19,50037
+250187793,Adamo Nagalo,Burkina Faso,Defender,22,50062
+250116759,Alen Mustafić,Bosnia and Herzegovina,Midfielder,25,52797
+250138999,Andreas Schjelderup,Norway,Forward,20,50147
+250128391,Jarell Quansah,England,Defender,21,7889
+250178067,Gjivai Zechiel,Netherlands,Midfielder,20,52749
+250154309,Jonas Rouhi,Sweden,Defender,20,50139
+250087431,Dan-Axel Zagadou,France,Defender,25,50107
+250134952,Ayman Azhil,Germany,Midfielder,23,52758
+250189107,Konstantin Schopp,Austria,Defender,18,50111
+250081341,Martin Ødegaard,Norway,Midfielder,25,52280
+250090398,Federico Chiesa,Italy,Midfielder,27,7889
+250097935,Wataru Endo,Japan,Midfielder,31,7889
+250104128,Bartol Franjić,Croatia,Defender,24,52707
+250193442,Lucas Beraldo,Brazil,Defender,20,52747
+93443,Rui Patrício,Portugal,Goalkeeper,36,52816
+69178,Scott Carson,England,Goalkeeper,39,52919
+250204164,Morgan Costarelli,France,Defender,19,75797
+250202692,Lucas García,Spain,Goalkeeper,20,2602798
+250201731,Younes Lachaab,France,Forward,19,75797
+250201718,Isaac Cossier,France,Defender,17,75797
+250200248,Trey Nyoni,England,Forward,17,7889
+250199905,Pau García,Spain,Goalkeeper,17,2602798
+250199900,Marc Aznar,Spain,Defender,18,2602798
+250199899,Juan Arango,Spain,Forward,18,2602798
+250199543,Christopher Olivier,Austria,Defender,18,50107
+250199225,Juan Córdoba,Colombia,Forward,21,50164
+250198502,Luca Raimund,Germany,Midfielder,19,50107
+250198498,Noah Jauny,France,Goalkeeper,20,2601306
+250197866,Gianluca Prestianni,Argentina,Forward,18,50147
+250196593,Zaid Romero,Argentina,Defender,24,50043
+250196587,Grégoire Coudert,France,Goalkeeper,25,2601306
+250196584,Axel Camblan,France,Forward,21,2601306
+250196581,Elvis Isaac,Nigeria,Forward,22,52797
+250196544,Tommaso Corazza,Italy,Defender,20,52969
+250196542,Federico Ravaglia,Italy,Goalkeeper,24,52969
+250195173,Pietro Comi,Italy,Defender,19,52816
+250194271,Jacob Hödl,Austria,Midfielder,17,50111
+250193410,Alberto Manzoni,Italy,Midfielder,19,52816
+250192873,Arjan Malić,Slovenia,Midfielder,19,50111
+250192699,Mauro Couto,Portugal,Forward,18,50149
+250192639,Lorin Jetzer,Switzerland,Defender,18,50031
+250192405,Michael Anthony Bresser,Netherlands,Defender,17,50062
+250192269,Antonio Fernandez,Spain,Midfielder,16,50080
+250190780,Jimi Gower,England,Midfielder,20,52280
+250190776,Maldini Kacurri,Albania,Defender,19,52280
+250190774,Jack Porter,England,Goalkeeper,16,52280
+250190375,Guillermo Fernandez,Spain,Midfielder,16,50080
+250190232,Ismail Ka,Netherlands,Goalkeeper,18,52749
+250190117,Ibrahim Mbaye,France,Forward,16,52747
+250189610,Viggo Gebel,Germany,Midfielder,16,2603790
+250189230,Joshua Robinson,England,Defender,19,52280
+250189174,Marco Palestra,Italy,Defender,19,52816
+250189136,Gerónimo Spina,Argentina,Defender,19,50124
+250188470,Lilian Baret,France,Midfielder,18,75797
+250188129,Arthur,Brazil,Defender,21,50109
+250187771,Tijn Smolenaars,Netherlands,Goalkeeper,19,50062
+250185049,Samuel Nibombe,Belgium,Defender,17,50023
+250184504,Oliver Sorg,Austria,Defender,17,50111
+250183894,Antal Yaakobishvili,Hungary,Defender,20,2602798
+250183341,Saimon Bouabre,France,Midfielder,18,50023
+250182971,Zine-Eddine Oulad M'Hand,Netherlands,Midfielder,21,52280
+250180112,Tygo Land,Netherlands,Midfielder,18,50062
+250180111,Zepiqueno Redmond,Netherlands,Forward,18,52749
+250180059,João Simões,Portugal,Midfielder,17,50149
+250179734,Lucas Dominguez,Spain,Defender,18,50149
+250179137,Iván Fresneda,Spain,Defender,20,50149
+250179078,Tyler Meiser,Germany,Defender,17,52758
+250178085,Mannou Berger,Netherlands,Goalkeeper,20,52749
+250178076,Nathan Butler-Oyedeji,England,Forward,21,52280
+250177933,Nicola Bagnolini,Italy,Goalkeeper,20,52969
+250177819,Jacob Wright,England,Midfielder,19,52919
+250177612,Yoram Zague,France,Defender,18,52747
+250177593,Naoufel El Hannach,France,Defender,17,52747
+250177433,Valentin Oelz,Austria,Goalkeeper,19,50030
+250177426,Oliver Lukic,Austria,Midfielder,18,50030
+250177381,Davide Bartesaghi,Italy,Defender,18,50058
+250177259,Leandro Santos,Portugal,Defender,19,50147
+250176532,Fran González,Spain,Goalkeeper,19,50051
+250176488,Jacobo Ramón,Spain,Defender,19,50051
+250176477,Francis Onyeka,Germany,Midfielder,17,50109
+250176229,Max Schmitt,Germany,Goalkeeper,18,50037
+250176213,Mike Aidoo,Italy,Defender,19,50138
+250176212,Thomas Berenbruch,Italy,Midfielder,19,50138
+250176188,Mats Seiler,Switzerland,Defender,19,50031
+250176181,Jashar Dema,Kosovo,Midfielder,19,50031
+250174995,Matteo Bignetti,Austria,Goalkeeper,20,50111
+250174331,Miguel Chaiwa,Zambia,Midfielder,20,50031
+250173127,Tajon Buchanan,Canada,Forward,25,50138
+250172534,Vuk Draškić,Serbia,Goalkeeper,17,50069
+250171662,Enric García,Spain,Midfielder,18,2602798
+250171659,Adam Aznou,Spain,Defender,18,50037
+250171100,Filippo Terracciano,Italy,Defender,21,50058
+250170952,Dennis Seimen,Germany,Goalkeeper,18,50107
+250170141,Kjell Wätjen,Germany,Midfielder,18,52758
+250170133,Almugera Kabar,Germany,Defender,18,52758
+250169918,Leon Grgic,Austria,Forward,18,50111
+250169894,Francisco Silva,Portugal,Goalkeeper,18,50149
+250169891,Luis Gomes,Portugal,Forward,20,50149
+250169577,Áron Yaakobishvili,Hungary,Goalkeeper,18,50080
+250169576,Diego Kochen,USA,Goalkeeper,18,50080
+250168729,Filippo Mane,Italy,Defender,19,52758
+250168060,Lucas Michal,France,Midfielder,19,50023
+250166787,Martin Mišovič,Slovakia,Forward,20,52797
+250165547,Daniil Khudiakov,Russia,Goalkeeper,20,50111
+250164989,André Gomes,Portugal,Goalkeeper,20,50147
+250164860,Daniel Rus,Czechia,Forward,18,50033
+250164853,Lukáš Penxa,Czechia,Defender,20,50033
+250164740,Tommy Setford,Netherlands,Goalkeeper,18,52280
+250164626,Ander Astralaga,Spain,Goalkeeper,20,50080
+250164169,Louis Mouquet,France,Goalkeeper,20,52747
+250164068,Lapo Nava,Italy,Goalkeeper,20,50058
+250164054,Kevin Zeroli,Italy,Midfielder,19,50058
+250163658,Salko Hamzic,Austria,Goalkeeper,18,50030
+250163505,Tommaso Del Lungo,Italy,Defender,20,52816
+250163224, Abdoulaye Ndiaye,Senegal,Defender,22,2601306
+250162627,Yann Lienard,France,Goalkeeper,21,50023
+250162176,Vanja Vlahović,Serbia,Forward,20,52816
+250160990,Diego Callai,Italy,Goalkeeper,20,50149
+250160835,Kiril Fesiun,Ukraine,Goalkeeper,22,52707
+250154332,Giovanni Daffara,Italy,Goalkeeper,19,50139
+250154301,Sergio Mestre,Spain,Goalkeeper,19,50051
+250153773,Stefan Leković,Serbia,Defender,20,50069
+250153677,Jorne Spileers,Belgium,Defender,19,50043
+250153412,Frans Krätzig,Germany,Defender,21,50107
+250153408,Silas Ostrzinski,Germany,Goalkeeper,20,52758
+250150470,Zane Monlouis,England,Defender,21,52280
+250148144,Niek Schiks,Netherlands,Goalkeeper,20,50062
+250139387,Arijon Ibrahimovic,Germany,Midfielder,18,50037
+250139028,Ivan Guteša,Serbia,Goalkeeper,22,50069
+250138956,Diogo Prioste,Portugal,Midfielder,20,50147
+250138950,Diogo Pinto,Portugal,Goalkeeper,20,50149
+250138635,Adrian Bajrami,Albania,Defender,22,50147
+250138286,Adam Hrdina,Slovakia,Goalkeeper,20,52797
+250138239,Joshua Wilson-Esbrand,England,Defender,21,52919
+250137521,Juan Musso,Argentina,Goalkeeper,30,50124
+250135608,Harvey Davies,England,Goalkeeper,21,7889
+250135499,Antonio Gomis,Spain,Goalkeeper,21,50124
+250135497,Aitor Gismera,Spain,Midfielder,20,50124
+250129928,Bryan Okoh,Switzerland,Defender,21,50030
+250129831,Ilias Kostis,Greece,Defender,21,50124
+250128898,Hugo Siquet,Belgium,Defender,22,50043
+250127502,Emil Holm,Sweden,Defender,24,52969
+250127149,Ameen Al-Dakhil,Belgium,Defender,22,50107
+250127130,Jakub Surovčík,Slovakia,Goalkeeper,22,50033
+250124400,Tyler Morton,England,Midfielder,22,7889
+250123440,Yehor Nazaryna,Ukraine,Midfielder,27,52707
+250119144,Leonidas Stergiou,Switzerland,Defender,22,50107
+250118962,Nathanaël Mbuku,DR Congo,Forward,22,50164
+250118787,Maarten Vandevoordt,Belgium,Goalkeeper,22,2603790
+250117408,Samuel Soares,Portugal,Goalkeeper,22,50147
+250116069,Mathias Ross,Denmark,Defender,23,50033
+250113263,Vitězslav Jaroš,Czechia,Goalkeeper,23,7889
+250112488,Rafael Tolói,Italy,Defender,34,52816
+250109859,Vladan Kovačević,Serbia,Goalkeeper,26,50149
+250109381,Maik Nawrocki,Poland,Defender,23,50050
+250109378,Marcel Lotka,Germany,Goalkeeper,23,52758
+250108031,Irakli Azarov,Georgia,Defender,22,52707
+250106979,Arnau Tenas,Spain,Goalkeeper,23,52747
+250106880,Viljami Sinisalo,Finland,Goalkeeper,23,50050
+250105664,Daniel Peretz,Israel,Goalkeeper,24,50037
+250104101,Yannik Keitel,Germany,Midfielder,24,50107
+250103498,Martin Trnovský,Slovakia,Goalkeeper,24,52797
+250101698,Stephen Welsh,Scotland,Defender,24,50050
+250096761,Josep Martínez,Spain,Goalkeeper,26,50138
+250088389,Emir Karic,Austria,Midfielder,27,50111
+250088122,Jordan Teze,Netherlands,Defender,25,50023
+250088117,Armando Obispo,Netherlands,Defender,25,50062
+250087542,Abel Ruiz,Spain,Forward,24,2602798
+250086637,Pau López,Spain,Goalkeeper,29,2602798
+250082738,Marco Sportiello,Italy,Goalkeeper,32,50058
+250082625,Marian Shved,Ukraine,Midfielder,27,52707
+250081634,Martin Erlić,Croatia,Defender,26,52969
+250079522,Marcus Edwards,England,Forward,25,50149
+250074072,Dario Marzino,Switzerland,Goalkeeper,28,50031
+250070418,Fabian Bredlow,Germany,Goalkeeper,29,50107
+250069830,Justin Bijlow,Netherlands,Goalkeeper,26,52749
+250067821,Marc-Aurèle Caillard,France,Goalkeeper,30,75797
+250066521,Nordin Jackers,Belgium,Goalkeeper,27,50043
+250065307,Jesús Vallejo,Spain,Defender,27,50051
+250064310,Jurij Medveděv,Czechia,Defender,28,52797
+250061507,Neto,Brazil,Goalkeeper,35,52280
+250058260,Lukas Klostermann,Germany,Defender,28,2603790
+250058121,Vojtěch Vorel,Czechia,Goalkeeper,28,50033
+250056735,Ivan Filipović,Croatia,Goalkeeper,29,50164
+250042778,Thomas Lemar,France,Midfielder,28,50124
+250041563,Milan Škriniar,Slovakia,Defender,29,52747
+250040599,Niklas Lomb,Germany,Goalkeeper,31,50109
+250022366,David Pavelka,Czechia,Midfielder,33,50033
+250017814,Raffaele Di Gennaro,Italy,Goalkeeper,31,50138
+250015753,Francesco Rossi,Italy,Goalkeeper,33,52816
+250011071,Scott Bain,Scotland,Goalkeeper,32,50050
+250000104,Carlo Pinsoglio,Italy,Goalkeeper,34,50139
+108501,Wojciech Szczęsny,Poland,Goalkeeper,34,50080
+103827,César Azpilicueta,Spain,Defender,35,50124
+101585,Vito Mannone,Italy,Goalkeeper,36,75797
