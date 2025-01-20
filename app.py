@@ -116,6 +116,8 @@ plt.ylabel("Principal Component 2")
 plt.title("Cluster Tim berdasarkan Statistik")
 plt.show()
 
+import streamlit as st
+
 # Fungsi prediksi kategori tim
 def predict_team_category(team_name):
     result = team_stats[team_stats["team"] == team_name]
@@ -127,5 +129,7 @@ def predict_team_category(team_name):
         return "Tim tidak ditemukan dalam data"
 
 # Input pengguna untuk prediksi
-team_name_input = input("Masukkan nama tim: ")
-print(predict_team_category(team_name_input))
+team_name_input = st.text_input("Masukkan nama tim:")
+if team_name_input:
+    result = predict_team_category(team_name_input)
+    st.write(result)
